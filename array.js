@@ -1,4 +1,5 @@
-
+//problem set for: Reverse array, Uniform array, sum of array
+//And max values in array
 
 printReverse([1, 3, 4, 6, 8, 10])
 printReverse(["a", "b", "c", "d"])
